@@ -1,0 +1,12 @@
+# files the agent writes while running
+duck_view.png
+duck_scene.png
+duck_status.json
+duck_sim.log
+*.tmp
+*.tmp.png
+recordings/
+
+__pycache__/
+*.pyc
+.venv/

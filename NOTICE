@@ -1,0 +1,12 @@
+Agentic Microduck
+Copyright 2026 Aachal Sharma
+
+This project builds on microduck_rl by Pollen Robotics
+(https://github.com/pollen-robotics/microduck_rl), licensed under the
+Apache License 2.0.
+
+scenes/scene_eyes.xml is a modified copy of
+src/mjlab_microduck/robot/microduck/scene_backlash.xml from microduck_rl,
+Copyright Pollen Robotics, licensed under the Apache License 2.0.
+Changes: added three static objects (red ball, blue box, green ball) and
+renamed the model.
